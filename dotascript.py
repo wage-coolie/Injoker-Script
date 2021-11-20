@@ -17,6 +17,7 @@ COMBINATIONS = [
     {keyboard.KeyCode(char='0')}
 ]
 
+
 # The currently active modifiers
 current = set()
 
